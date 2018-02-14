@@ -51,3 +51,4 @@ function changeSizeText() {
     realTimeComment.style.fontSize = "20px";
   }
 }
+
